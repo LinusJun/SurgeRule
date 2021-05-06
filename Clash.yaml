@@ -222,7 +222,7 @@ Proxy Group:
   - name: Proxy
     type: select
     proxies:
-      - 🇯🇵aws
+      - 🇯🇵AWS
 rule-providers:
   apple-proxy:
     type: http
