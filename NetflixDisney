@@ -1,0 +1,26 @@
+# NAME: NetflixDisney
+# AUTHOR: LinusJun
+# REPO: https://github.com/LinusJun/SurgeRule/
+# UPDATED: 2023-01-08 18:51:16
+
+#Netflix
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.ca
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+
+#Disney+
+DOMAIN-SUFFIX,cdn.registerdisney.go.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+USER-AGENT,Disney+*
+PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+PROCESS-NAME,com.disney.disneyplus
