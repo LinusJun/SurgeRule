@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,beryllium-pa.googleapis.com
 DOMAIN-SUFFIX,playatoms-pa.googleapis.com
 DOMAIN-SUFFIX,footprints-pa.googleapis.com
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-#DOMAIN-SUFFIX,googleapis.com
 
 DOMAIN-SUFFIX,scriptionsmanagement-pa.googleapis.com
 DOMAIN-SUFFIX,scriptionsmobile-pa.googleapis.com
@@ -22,3 +21,5 @@ DOMAIN-SUFFIX,userlocation.googleapis.com
 DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,remotedesktop-pa.googleapis.com
+
+#DOMAIN-SUFFIX,googleapis.com
