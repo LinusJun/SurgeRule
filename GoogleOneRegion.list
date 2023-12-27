@@ -1,12 +1,12 @@
 # VPN by Google One
-  - 'DOMAIN-SUFFIX,cupronickel.goog,GoogleOneRegion'
- #- 'DOMAIN-SUFFIX,googleapis.com,GoogleOneRegion'
- #- 'DOMAIN-SUFFIX,subscriptionsmanagement-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,subscriptionsmobile-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,scone-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,phosphor-pa.googleapis.com,GoogleOneRegion'  
-  - 'DOMAIN-SUFFIX,beryllium-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,playatoms-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,footprints-pa.googleapis.com,GoogleOneRegion'
-  - 'DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,GoogleOneRegion'
- #- 'DOMAIN-SUFFIX,assouth.p.g-tun.com,GoogleOneRegion'
+  - DOMAIN-SUFFIX,cupronickel.goog
+ #- DOMAIN-SUFFIX,googleapis.com
+ #- DOMAIN-SUFFIX,subscriptionsmanagement-pa.googleapis.com
+  - DOMAIN-SUFFIX,subscriptionsmobile-pa.googleapis.com
+  - DOMAIN-SUFFIX,scone-pa.googleapis.com
+  - DOMAIN-SUFFIX,phosphor-pa.googleapis.com  
+  - DOMAIN-SUFFIX,beryllium-pa.googleapis.com
+  - DOMAIN-SUFFIX,playatoms-pa.googleapis.com
+  - DOMAIN-SUFFIX,footprints-pa.googleapis.com
+  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+ #- DOMAIN-SUFFIX,assouth.p.g-tun.com
