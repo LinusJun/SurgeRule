@@ -9,4 +9,4 @@
   - 'DOMAIN-SUFFIX,playatoms-pa.googleapis.com,GoogleOneRegion'
   - 'DOMAIN-SUFFIX,footprints-pa.googleapis.com,GoogleOneRegion'
   - 'DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,GoogleOneRegion'
-    #  - 'DOMAIN-SUFFIX,assouth.p.g-tun.com,GoogleOneRegion'
+ #- 'DOMAIN-SUFFIX,assouth.p.g-tun.com,GoogleOneRegion'
